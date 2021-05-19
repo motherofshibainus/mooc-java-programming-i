@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d02dd569-7aa1-42df-9051-702109cd53c5" name="Default Changelist" comment="fixes and commit" />
+    <list default="true" id="d02dd569-7aa1-42df-9051-702109cd53c5" name="Default Changelist" comment="fixes and commit">
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/src/main/java/Sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/src/main/java/Sandbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/src/main/java/AdaLovelace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_02.AdaLovelace/src/main/java/AdaLovelace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_01.ThirdElement/src/main/java/ThirdElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_01.ThirdElement/src/main/java/ThirdElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SecondPlusThird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SecondPlusThird.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +52,7 @@
       <workItem from="1619688843785" duration="103000" />
       <workItem from="1619688958230" duration="3000" />
       <workItem from="1619689080557" duration="1031000" />
+      <workItem from="1619691106798" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="fixes and commit">
       <created>1619689710609</created>
@@ -85,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixes and commit" />
